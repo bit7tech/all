@@ -4,3 +4,6 @@
 [submodule "libcc"]
 	path = libcc
 	url = git@github.com:bit7tech/libcc.git
+[submodule "nerd"]
+	path = nerd
+	url = git@github.com:bit7tech/nerd.git
