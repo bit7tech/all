@@ -1,3 +1,6 @@
 [submodule "kore"]
 	path = kore
 	url = git@github.com:bit7tech/kore.git
+[submodule "libcc"]
+	path = libcc
+	url = git@github.com:bit7tech/libcc.git
